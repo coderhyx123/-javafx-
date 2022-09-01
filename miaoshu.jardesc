@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/a/Desktop/test/musicplayer.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/PlayerMusicNet/miaoshu.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/PlayerMusicNet/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="false" exportOutputFolder="true">
+        <file path="/PlayerMusicNet/.classpath"/>
+        <file path="/PlayerMusicNet/.project"/>
+        <javaElement handleIdentifier="=PlayerMusicNet/src"/>
+        <file path="/PlayerMusicNet/MANIFEST.MF"/>
+        <file path="/PlayerMusicNet/miaoshu.jardesc"/>
+    </selectedElements>
+</jardesc>

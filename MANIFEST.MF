@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: /libs/fastjson-1.2.76.jar 
+Main-Class: com.hyx.ui.HomeApp 
